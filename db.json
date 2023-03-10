@@ -1,29 +1,28 @@
 {
-"drinks":[
-  {
-    "uri": "beer",
-    "name": "Beer",
-    "drankAmount": 1,
-    "favorite": false
-  },
-  {
-    "uri": "wine",
-    "name": "Wine",
-    "drankAmount": 1,
-    "favorite": true
-  },
-  {
-    "uri": "shot",
-    "name": "Shot",
-    "drankAmount": 0,
-    "favorite": false
-  },
-  {
-    "uri": "coke",
-    "name": "Coke",
-    "drankAmount": 2,
-    "favorite": false
-  }
-]
-
+  "drinks": [
+    {
+      "uri": "beer",
+      "name": "Beer",
+      "drankAmount": 1,
+      "favorite": false
+    },
+    {
+      "uri": "wine",
+      "name": "Wine",
+      "drankAmount": 1,
+      "favorite": true
+    },
+    {
+      "uri": "shot",
+      "name": "Shot",
+      "drankAmount": 0,
+      "favorite": false
+    },
+    {
+      "uri": "coke",
+      "name": "Coke",
+      "drankAmount": 2,
+      "favorite": false
+    }
+  ]
 }
