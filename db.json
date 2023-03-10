@@ -1,4 +1,5 @@
-[
+{
+"drinks":[
   {
     "uri": "beer",
     "name": "Beer",
@@ -24,3 +25,5 @@
     "favorite": false
   }
 ]
+
+}
